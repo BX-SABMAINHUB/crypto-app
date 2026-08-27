@@ -1,0 +1,6 @@
+node_modules/
+dist/
+release/
+*.log
+installer.exe
+CryptoApp-win32-x64.zip
