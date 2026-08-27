@@ -1,0 +1,13 @@
+appId: com.tuempresa.cryptoapp
+productName: CryptoApp
+directories:
+  output: release
+files:
+  - dist/**
+  - main.js
+  - preload.js
+  - package.json
+win:
+  target:
+    - portable
+    - zip
